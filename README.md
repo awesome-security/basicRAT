@@ -2,6 +2,8 @@
 
 This is a boilerplate Python RAT (Remote Access Trojan). I created this to maintain a bare-bones, clean design Python RAT with only essential features. My goal is to use basicRAT as a starting point to create other RATs that use various common-place protocols for C2.
 
+**Disclaimer: This RAT is for research purposes only, and should only be used on authorized systems. Accessing a computer system or network without authorization or explicit permission is illegal.**
+
 ## Features
 * Cross-platform
 * Reverse Shell
